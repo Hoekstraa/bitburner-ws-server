@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cheap-watch": "^1.0.4",
+    "signal-js": "^3.0.1",
+    "ws": "^8.6.0"
+  }
+}
